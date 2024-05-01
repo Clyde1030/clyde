@@ -1,0 +1,30 @@
+
+{
+    "instructions":
+    {
+        "report": 
+        [   
+            {
+                "name":"Zag Auto Group",
+                "role":"dlr_group",
+                "id":90215,
+                "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Zag Motors Auto Group\\NEW_DB_Claims Detail_24616 ZAG Motor Group_append.xlsx",
+                "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Dealer_Zag Motors Group 24616_v10.2.twb",
+                "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Zag Motors Auto Group\\YYYY MM Reserve Summary_24616 ZAG Motor Group.pdf"
+                }
+        
+        ],
+
+
+        "constants":
+        {
+
+
+            
+        }
+    }
+}
+
+
+
+
