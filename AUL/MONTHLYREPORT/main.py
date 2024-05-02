@@ -1,3 +1,6 @@
+### This is a small API executed through command prompt.
+### Example command on command prompt: pipenv run python run 2023 11 --root C:\Users\ylee\Desktop\dev\AUL\MONTHLYREPORT\etl
+
 # standard library
 import os
 import argparse
@@ -10,8 +13,6 @@ import monthlyreport as mr
 
 
 LOGGER = logging.getLogger()
-
-## Example command on command prompt: pipenv run python run 2023 11 --root C:\Users\ylee\Desktop\dev\AUL\MONTHLYREPORT\etl
 
 def main():
     args = get_args()

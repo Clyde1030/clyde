@@ -31,6 +31,7 @@ class ReportRunner:
         self.sql_path = os.path.join(self.root,'etl','SQL Claims Detail with GWR_AULDATAMART_with Post Period_03-07-2020 (updated).sql')
 
     # Parse instructions.json and store the tasks into a dictionary that is available in the whole class
+    # instructions.json in the etl folder has all the information for each report including the role id, file name, and location.
     def get_instructions(self, path=None):
         """return the instructions as a list of dictionary that includes all parameters for a report"""
         LOGGER.debug("Getting instructions from {}".format(path))

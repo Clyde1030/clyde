@@ -1,7 +1,7 @@
 ### This script interacts with SQL Server to execute the SQL Codes for dealers' monthly claim reports.
 ### The SQL code is saved as below removing the parameter declaration on the top.
 ### X:\Dept.Risk.Management\Claims\SQL Claims Detail with GWR_AULDATAMART_with Post Period_03-07-2020 (updated).sql
-### The entire module is imported into ReportRunner.py
+### These three functions in the scripts are imported into ReportRunner.py
 
 import re
 import logging
