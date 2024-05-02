@@ -1,3 +1,6 @@
+### The whole project can be view at: https://gitfront.io/r/Clyde1030/hbbxxSvvd839/clyde/
+### The project location is at clyde\AUL\MONTHLYREPORT
+### Sample output file is in clyde\AUL\MONTHLYREPORT\etl\NEW_DB_Claims Detail_24616 ZAG Motor Group_append.xlsx
 ### This script interacts with SQL Server to execute the SQL Codes for dealers' monthly claim reports.
 ### The SQL code is saved as below removing the parameter declaration on the top.
 ### X:\Dept.Risk.Management\Claims\SQL Claims Detail with GWR_AULDATAMART_with Post Period_03-07-2020 (updated).sql

@@ -4,15 +4,118 @@
     {
         "report": 
         [   
+
+
             {
-                "name":"Zag Auto Group",
-                "role":"dlr_group",
-                "id":90215,
-                "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Zag Motors Auto Group\\NEW_DB_Claims Detail_24616 ZAG Motor Group_append.xlsx",
-                "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Dealer_Zag Motors Group 24616_v10.2.twb",
-                "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Zag Motors Auto Group\\YYYY MM Reserve Summary_24616 ZAG Motor Group.pdf"
-                }
-        
+            "name":"American Automotive Alliance Group",
+            "role":"dlr_group",
+            "id":91245,
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\American Automotive Alliance Group\\Claims Detail_Template_American Automotive Alliance  Group #91245_APPEND.xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_American Automotive Alliance #91245 _NEW_v10.2.twb",
+            "resv_smry_file_nm":"YYYY MM_Reserve Summary_American Automotive Alliance Group #91245_NEW.pdf"
+            },
+
+            {
+            "name":"Coastal Finance Company",
+            "role":"fc",
+            "id":[4390,4391,4510,4511,4512,4514,4515],
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Coastal Finance Company\\Claims Detail_Coastal Finance Company_append.xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Trends_Finance Co_Coastal Finance Company_v10.2.twb",
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Coastal Finance Company\\YYYY MM_Reserve Summary_Coastal Finance Group.pdf"
+            },
+            
+            {
+            "name":"Guy Strohmeiers",
+            "role":"dlr",
+            "id":10880,
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Guy Strohmeiers\\NEW_DB_Claims Detail_10880 Guy Strohmeiers.xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Dealer_Guy Strohmeiers 10880_v10.2",
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Guy Strohmeiers\\YYYY MM Reserve Summary_10880 Guy Strohmeiers Auto Center.pdf"
+            },
+
+            {
+            "name":"Markquart",
+            "role":"dlr_group",
+            "id":90212,
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Markquart\\NEW_DB_Claims Detail_90212 Markquart Inc_appended file.xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Markquart\\Risk Management_Reserve Summary_Dealer Group_Markquart_v10.2.twb",
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Markquart\\Monthly Reports\\YYYY MM_Reserve Summary  MARKQUART INC 90212.pdf"
+            },
+
+            {
+            "name":"Mega AutoFinance",
+            "role":"fc",
+            "id":6274,
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Mega AutoFinance\\Claims Detail_6274 Mega Auto Finance_append_NEW.xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Finance Co_Mega Auto Finance #6274_v10.2.twb",
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Mega AutoFinance\\YYYY MM_Risk Management_Reserve Summary_Mega Auto Finance #6274.pdf"
+            },
+
+            {
+            "name":"New City Funding",
+            "role":"fc",
+            "id":5417,
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\New City Funding\\DB_Claims Detail_5417 New City Funding_append_NEW.xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Finance Co_New City Funding_v10.2.twb",
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\New City Funding\\YYYY MM_Reserve Summary_New City Funding.pdf"
+            },
+
+            {
+            "name":"Pischke Automotive Group",
+            "role":"dlr_group",
+            "id":91223,
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Pischke Automotive Group\\Claims Detail_Template_Pischke Dealer Group #91223_APPEND.xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Pischke Dealer Group #91223_v10.2.twb",
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Pischke Automotive Group\\YYYY MM_Risk Management_Reserve Summary_Pischke Dealer Group #91223.pdf"
+            },
+            
+    
+            {
+            "name":"United Finance",
+            "role":"fc",
+            "id":2923,
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\United Finance\\Claims Detail_2923 United Finance_append.xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Finance Co_United Finance Co_v10.2.twb",
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\United Finance\\YYYY MM_Reserve Summary_United Finance 2923.pdf"
+            },
+
+            {
+            "name":"Veros Credit_Quantum Auto Sales #6637",
+            "role":"fc",
+            "id":6637,
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Veros Credit_Quantum Auto Sales #6637\\Veros Claims_Quantum Auto Sales Detail Append #6637.xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Trends_Finance Co_Veros Credit_Quantum Auto Sales #6637_v10.2.twb",
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Veros Credit_Quantum Auto Sales #6637\\YYYY MM_Risk Management_Reserve Summary_Finance Co_Veros Credit_Quantum Auto Sales #6637_v10.2.pdf"
+            },
+
+            {
+            "name":"Veros",
+            "role":"fc",
+            "id":3218,
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Veros\\Veros Claims Detail Append #3218 (RCV, RFV).xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Trends_Finance Co_Veros 3218_v10.2.twb",
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Veros\\YYYY MM_Reserve Summary_Finance Co_Veros 3218.pdf"
+            },
+                                            
+            {
+            "name":"Yield Solutions",
+            "role":"dlr_group",
+            "id":90526,
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Yield Solutions\\Yield Solutions Claims Detail Append.xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Auto Refi_Yield Solutions_NEW_v10.2.twb",
+            "resv_smry_file_nm":"YYYY MM_Reserve Summary_Coastal Finance Group.pdf"
+            },
+            
+            {
+            "name":"Zag Auto Group",
+            "role":"dlr_group",
+            "id":90215,
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Zag Motors Auto Group\\NEW_DB_Claims Detail_24616 ZAG Motor Group_append.xlsx",
+            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Dealer_Zag Motors Group 24616_v10.2.twb",
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Zag Motors Auto Group\\YYYY MM Reserve Summary_24616 ZAG Motor Group.pdf"
+            }
+
+    
         ],
 
 

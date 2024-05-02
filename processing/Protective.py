@@ -37,7 +37,7 @@ class protective:
                             "Exchange1035","SplitPercentage","Replacement","CarrierProductName","PolicyOwner",
                             "Exchange","NLG","Modco","YRT","CSO2001"]
 
-
+    # This function automate the process of copying the raw data file for a single month to the working directory
     def fetchRawMonth(self):
         '''Only fetch the month's data from Goanywhere folder. Save them in the corresponding month folder in the data directory'''
         LOGGER.info(f'Searching {month_name[self.month]} file for carrierid {self.carrierId}...')
@@ -54,7 +54,7 @@ class protective:
             LOGGER.warning(f'1390 Protective {month_name[self.month]} production reports not available.')
 
 
-
+    # This function automate the process of moving the raw data files year to date to the working directory
     def fetchRawYTD(self):
         '''Copy all text files received from GoAnywhere as of the month to the YTD data directory'''
         LOGGER.info(f'Searching {month_name[self.month]} YTD files for carrierid {self.carrierId}...')
@@ -77,7 +77,7 @@ class protective:
             shutil.copy2(p,self.ytdfolder)
         LOGGER.info(f'1390 Protective: {len(path)} raw data files are copied to {self.ytdfolder}.')
         
-
+    # Since the text files only includes one single month's data, to get a YTD collection, this function combines all entries from each text file year-to-date.
     def getcsvYTD(self):
         '''Aggreagte all files in YTD data folder oin the data directory into an excel file. Read in, process and generate the csv file with Pandas'''
         
@@ -169,6 +169,8 @@ class protective:
         # df.to_excel(os.path.join(self.csvdst,'test.xlsx'), index=False)
         LOGGER.info(f'{self.csvname} is saved at {self.csvdst}.')
 
+
+# Combine the whole class into a function so it can be more easily used in the API
 def processProt(year, month):
     pro = protective(year,month)
     pro.fetchRawMonth()
