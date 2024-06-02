@@ -10,6 +10,7 @@ tableaudocumentapi = "*"
 pandas = "*"
 openpyxl = "*"
 xlwings = "*"
+pylint = "*"
 
 [dev-packages]
 
