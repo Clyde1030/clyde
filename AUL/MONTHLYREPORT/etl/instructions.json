@@ -4,8 +4,6 @@
     {
         "report": 
         [   
-
-
             {
             "name":"American Automotive Alliance Group",
             "role":"dlr_group",
@@ -141,24 +139,17 @@
             "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Dealer_Hudson Auto Group 34727_v10.2.twb",
             "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Zag Motors Auto Group\\YYYY MM Reserve Summary_90373 Hudson Group.pdf"
             },
+
     
             {
             "name":"Maplewood Inver Grove Group",
             "role":"dlr_group",
-            "id":90373,
+            "id":[3078, 22773, 25027, 28072, 38187, 41931, 41932, 74245],
             "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Maplewood Inver Grove Group\\Claims Detail_Maplewood Inver Grove Group_Append_NEW.xlsx",
             "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Dealer_Maplewood Group 3078_v10.2.twb",
             "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Maplewood Inver Grove Group\\YYYY MM_Reserve Summary_91131 90995 91293 91295 Maplewood Group.pdf"
             },
 
-            {
-            "name":"RFJ Group",
-            "role":"dlr_group",
-            "id":91231,
-            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\RFJ Group\\Claims Detail_RFJ Group Append.xlsx",
-            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Dealer_RFJ Group 91231_(by Trans Date)_v10.2.twb",
-            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\RFJ Group\\YYYY MM_Claims Summary_Dealer_RFJ Group.pdf"
-            },            
     
             {
             "name":"Gateway Financial",
@@ -166,13 +157,13 @@
             "id":6321,
             "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Gateway Financial\\NEW_DB_Monthly Claims Detail_Gateway Financial 6321_Append.xlsx",
             "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Finance Co_Gateway Financial-NEW_v10.2.twb",
-            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Gateway Financial\\YYYY MM_Claims Summary_Dealer_RFJ Group.pdf"
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Gateway Financial\\YYYY MM_Reserve Summary_6321 Gateway Financial"
             },            
     
             {
             "name":"Pronto",
             "role":"fc",
-            "id":6321,
+            "id":6325,
             "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Pronto\\DB_Monthly Claims Detail_Pronto 6325_Append_NEW.xlsx",
             "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Finance Co_Pronto_v10.2.twb",
             "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Pronto\\YYYY MM_Reserve Summary_Finance Co_Pronto 6325.pdf"
@@ -185,24 +176,6 @@
             "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Sensible\\Claims Detail_4663 4664 Sensible_append_NEW.xlsx",
             "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Finance Co_Sensible Lending_NEW_v10.2.twb",
             "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Sensible\\YYYY MM_Reserve Summary_4663 4664 Sensible Lending.pdf"
-            },            
-        
-            {
-            "name":"Western Funding",
-            "role":"fc",
-            "id":6379,
-            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Gateway Financial\\Western Funding Claims Detail_Append - RR.xlsx",
-            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Finance Co_Western Funding_v10.2.twb",
-            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Gateway Financial\\YYYY MM Reserve Summary Western Funding 6379.pdf"
-            },            
-        
-            {
-            "name":"Westlake Financial",
-            "role":"fc",
-            "id":6206,
-            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Westlake\\Westlake Claims Detail_APPEND - RR.xlsx",
-            "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Finance Co_Westlake Financial_NEW_v10.2.twb",
-            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Westlake\\YYYY MM Reserve Summary Westlake Financial 6206.pdf"
             },            
         
             {

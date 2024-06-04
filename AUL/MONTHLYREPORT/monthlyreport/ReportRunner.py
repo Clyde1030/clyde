@@ -44,12 +44,23 @@ class ReportRunner:
         for set_name in instruction_obj["instructions"]:
             for entity in instruction_obj["instructions"][set_name]:
                 # Set up specifically for Coastal finance, which consists of different fc's
-                if set_name == 'report' and entity['name']=='Coastal Finance Company':
+                if set_name == 'report' and (entity['name']=='Coastal Finance Company' or entity['name']=='Sensible Lending'):
                     for i in entity['id']:
                         empty_dict = {}
                         empty_dict['action'] = 'report'                 
                         empty_dict['name'] = entity['name']                  
                         empty_dict['role'] = 'fc'
+                        empty_dict['id'] = i
+                        empty_dict['claim_file_nm'] = entity['claim_file_nm']
+                        empty_dict['tableau_file_nm'] = entity['tableau_file_nm']
+                        empty_dict['resv_smry_file_nm'] = entity['resv_smry_file_nm']  
+                        instructions.append(empty_dict)       
+                elif set_name == 'report' and (entity['name']=='Maplewood Inver Grove Group'):
+                    for i in entity['id']:
+                        empty_dict = {}
+                        empty_dict['action'] = 'report'                 
+                        empty_dict['name'] = entity['name']                  
+                        empty_dict['role'] = 'dlr'
                         empty_dict['id'] = i
                         empty_dict['claim_file_nm'] = entity['claim_file_nm']
                         empty_dict['tableau_file_nm'] = entity['tableau_file_nm']
