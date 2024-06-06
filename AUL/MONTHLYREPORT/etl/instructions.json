@@ -144,7 +144,7 @@
             {
             "name":"Maplewood Inver Grove Group",
             "role":"dlr_group",
-            "id":[3078, 22773, 25027, 28072, 38187, 41931, 41932, 74245],
+            "id":[91131,91293],
             "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Maplewood Inver Grove Group\\Claims Detail_Maplewood Inver Grove Group_Append_NEW.xlsx",
             "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Dealer_Maplewood Group 3078_v10.2.twb",
             "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Maplewood Inver Grove Group\\YYYY MM_Reserve Summary_91131 90995 91293 91295 Maplewood Group.pdf"
