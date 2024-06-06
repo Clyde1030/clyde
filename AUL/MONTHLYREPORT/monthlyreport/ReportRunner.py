@@ -60,7 +60,7 @@ class ReportRunner:
                         empty_dict = {}
                         empty_dict['action'] = 'report'                 
                         empty_dict['name'] = entity['name']                  
-                        empty_dict['role'] = 'dlr'
+                        empty_dict['role'] = 'dlr_group'
                         empty_dict['id'] = i
                         empty_dict['claim_file_nm'] = entity['claim_file_nm']
                         empty_dict['tableau_file_nm'] = entity['tableau_file_nm']
