@@ -124,7 +124,7 @@
 
             {
             "name":"Haley Group",
-            "role":"dlr",
+            "role":"dlr_group",
             "id":45335,
             "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Haley Group\\NEW_DB_Claims Detail_45335 Haley Group_append.xlsx",
             "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Dealer_Haley Group 45335_v10.2.twb",
