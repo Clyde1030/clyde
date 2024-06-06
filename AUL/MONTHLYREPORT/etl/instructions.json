@@ -10,7 +10,7 @@
             "id":91245,
             "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\American Automotive Alliance Group\\Claims Detail_Template_American Automotive Alliance  Group #91245_APPEND.xlsx",
             "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_American Automotive Alliance #91245 _NEW_v10.2.twb",
-            "resv_smry_file_nm":"YYYY MM_Reserve Summary_American Automotive Alliance Group #91245_NEW.pdf"
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\American Automotive Alliance Group\\YYYY MM_Reserve Summary_American Automotive Alliance Group #91245_NEW.pdf"
             },
 
             {
@@ -128,16 +128,16 @@
             "id":45335,
             "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Haley Group\\NEW_DB_Claims Detail_45335 Haley Group_append.xlsx",
             "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Dealer_Haley Group 45335_v10.2.twb",
-            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Zag Motors Auto Group\\YYYY MM_Reserve Summary_Haley Group 45335.pdf"
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Haley Group\\YYYY MM_Reserve Summary_Haley Group 45335.pdf"
             },
 
             {
             "name":"Hudson Group",
             "role":"dlr_group",
             "id":90373,
-            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Haley Group\\NEW_DB_Monthly Claims Detail_34727 Hudson Group_append.xlsx",
+            "claim_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Hudson Group\\NEW_DB_Monthly Claims Detail_34727 Hudson Group_append.xlsx",
             "tableau_file_nm":"X:\\Dept.Risk.Management\\Monthly Reports\\External Reporting\\Risk Management_Reserve Summary_Dealer_Hudson Auto Group 34727_v10.2.twb",
-            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Zag Motors Auto Group\\YYYY MM Reserve Summary_90373 Hudson Group.pdf"
+            "resv_smry_file_nm":"X:\\Dept.Risk.Management\\Large Accounts\\Hudson Group\\YYYY MM Reserve Summary_90373 Hudson Group.pdf"
             },
 
     
