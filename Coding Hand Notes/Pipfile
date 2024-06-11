@@ -8,6 +8,8 @@ requests = "*"
 pandas = "*"
 bs4 = "*"
 html5lib = "*"
+xlwings = "*"
+openpyxl = "*"
 
 [dev-packages]
 
