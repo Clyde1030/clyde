@@ -10,19 +10,22 @@ def main():
     set_logger('info')
     wb_path = '/Users/yu-shenglee/Library/CloudStorage/OneDrive-Personal/Desktop/Excel on Desktop/dev/Python Projects/Stock Portfolio-M.xlsx'
     
-    with open('html.txt','r') as file:
-        html_long = file.readlines()
-    df = extract(html_long[0])
-    LOGGER.info(df)
-    output(df, wb_path, 'Clyde')
+    names = ['Clyde', 'Austin', 'Irina']
+    
+    for name in names:
+        with open('html_' + name + '.txt', 'r') as file:
+            html_long = file.readlines()
+        df = extract(html_long[0])
+        LOGGER.info(df)
+        output(df, wb_path, name)
 
-    # with open('html.txt','r') as file:
+    # with open('html_Austin.txt','r') as file:
     #     html_long = file.readlines()
     # df = extract(html_long[0])
     # LOGGER.info(df)
     # output(df, wb_path, 'Austin')
 
-    # with open('html.txt','r') as file:
+    # with open('html_Irina.txt','r') as file:
     #     html_long = file.readlines()
     # df = extract(html_long[0])
     # LOGGER.info(df)
