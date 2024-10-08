@@ -1,0 +1,806 @@
+ <tr data-testid="position-15">
+  <td class="zzuv7e1 zzuv7e0 zzuv7e8 symbol-cell" rowspan="1">
+   <div class="mds-pr-3 mds-d-flex mds-ai-center">
+    <div aria-hidden="true" class="_1vbasf10">
+     <img alt="" class="_1vbasf11" data-src="https://static.chasecdn.com/logos/sdai/us/US88160R1014/mark_composite_light.png" data-testid="logo-position-15" height="32" loading="lazy" src="https://static.chasecdn.com/logos/sdai/us/US88160R1014/mark_composite_light.png" width="32"/>
+    </div>
+    <div class="_1bm37282">
+     <div class="_1bm37281">
+      <mds-link accessible-text="opens dialog " class="mds-link--cpc" data-testid="symbol-position-15" end-icon="ico_chevron_right" href="javascript:void(0)" id="symbol-position-15" inactive="false" inverse="false" is-button="false" label-aria-text="" leading-pipe="false" tab-focusable="true" text="TSLA" trailing-pipe="false" truncation="none" underline="false">
+      </mds-link>
+      <div class="_1bm37280 mds-d-at-0-none mds-d-at-992-block" id="des-TSLA" title="TESLA INC COMMON STOCK">
+       TESLA INC COMMON STOCK
+      </div>
+     </div>
+    </div>
+   </div>
+  </td>
+  <td class="mds-text-left zzuv7e0 zzuv7e8" rowspan="1">
+   <div class="zzuv7e3" title="TESLA INC COMMON STOCK">
+    TESLA INC COMMON STOCK
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end" data-testid="price-position-15">
+    <span>
+     184.86
+    </span>
+    <span class="mds-d-print-none">
+     <mds-button accessible-text="Open information dialog: price alert" class="mds-button--cpc" disable-live-region="false" icon-position="icon_only" icon-type="ico_info_outlined" id="position-15-stale-price-indicator" inactive="false" inverse="false" is-loading="false" small="true" style="position: relative;" tab-focusable="true" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+      <mds-flyout accesible-text-flyout-content-end="popup content end" accesible-text-flyout-content-start="popup content start" accessible-close-button="Close information dialog" accessible-text-flyout-content-end="popup content end" accessible-text-flyout-content-start="popup content start" alignment="left" class="mds-flyout--cpc" data-testid="position-15-stale-price-flyout" edge-detection="true" edge-detection-container-id="position-table-scroll-container" header="Price as of 06/18/2024 11:59:59 PM ET" heading-level="2" height="90" id="position-15-stale-price-flyout" manual-control="true" tooltip-placement="below" variant="information" width="320">
+       <span>
+        "Price" and "Value" are not based on date and time stamp at the top of the page.
+       </span>
+      </mds-flyout>
+      <mds-flyout-overlay class="mds-flyout--cpc" slot="mds-flyout-overlay">
+      </mds-flyout-overlay>
+     </mds-button>
+    </span>
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="quantity-position-15">
+   19
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="cost-position-15">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end">
+    3,985.13
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="gain-loss-position-15">
+   <span class="helpers_negative__yyt81f1" data-testid="value-format">
+    <span class="mds-accessible-text">
+     Loss of -472.79
+    </span>
+    <span aria-hidden="true" data-testid="value-format-display-value">
+     -472.79
+    </span>
+   </span>
+   <div class="mds-d-block">
+    <span class="helpers_negative__yyt81f1" data-testid="percentage-format">
+     <span class="mds-accessible-text">
+      Loss of -11.86%
+     </span>
+     <span aria-hidden="true" data-testid="percentage-format-display-value">
+      -11.86%
+     </span>
+    </span>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="value-position-15">
+   <div>
+    3,512.34
+   </div>
+   <div>
+   </div>
+  </td>
+  <td align="center" class="zzuv7e0 zzuv7e8 mds-va-middle" data-testid="trade-position-15" rowspan="1">
+   <span>
+    <mds-button accessible-text="" class="mds-button--cpc" data-testid="position-15-trade-menu" disable-live-region="false" icon-position="trailing" icon-type="ico_chevron_down" id="position-15-trade-menu" inactive="false" inverse="false" is-loading="false" small="true" tab-focusable="true" text="Trade" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+    </mds-button>
+   </span>
+  </td>
+ </tr>
+
+ <tr data-testid="position-16">
+  <td class="zzuv7e1 zzuv7e0 zzuv7e8 symbol-cell" rowspan="1">
+   <div class="mds-pr-3 mds-d-flex mds-ai-center">
+    <div aria-hidden="true" class="_1vbasf10">
+     <img alt="" class="_1vbasf11" data-src="https://static.chasecdn.com/logos/sdai/us/US5184391044/mark_composite_light.png" data-testid="logo-position-16" height="32" loading="lazy" src="https://static.chasecdn.com/logos/sdai/us/US5184391044/mark_composite_light.png" width="32"/>
+    </div>
+    <div class="_1bm37282">
+     <div class="_1bm37281">
+      <mds-link accessible-text="opens dialog " class="mds-link--cpc" data-testid="symbol-position-16" end-icon="ico_chevron_right" href="javascript:void(0)" id="symbol-position-16" inactive="false" inverse="false" is-button="false" label-aria-text="" leading-pipe="false" tab-focusable="true" text="EL" trailing-pipe="false" truncation="none" underline="false">
+      </mds-link>
+      <div class="_1bm37280 mds-d-at-0-none mds-d-at-992-block" id="des-EL" title="ESTEE LAUDER COMPANIES INC CL A">
+       ESTEE LAUDER COMPANIES INC CL A
+      </div>
+     </div>
+    </div>
+   </div>
+  </td>
+  <td class="mds-text-left zzuv7e0 zzuv7e8" rowspan="1">
+   <div class="zzuv7e3" title="ESTEE LAUDER COMPANIES INC CL A">
+    ESTEE LAUDER COMPANIES INC CL A
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end" data-testid="price-position-16">
+    <span>
+     110.79
+    </span>
+    <span class="mds-d-print-none">
+     <mds-button accessible-text="Open information dialog: price alert" class="mds-button--cpc" disable-live-region="false" icon-position="icon_only" icon-type="ico_info_outlined" id="position-16-stale-price-indicator" inactive="false" inverse="false" is-loading="false" small="true" style="position: relative;" tab-focusable="true" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+      <mds-flyout accesible-text-flyout-content-end="popup content end" accesible-text-flyout-content-start="popup content start" accessible-close-button="Close information dialog" accessible-text-flyout-content-end="popup content end" accessible-text-flyout-content-start="popup content start" alignment="left" class="mds-flyout--cpc" data-testid="position-16-stale-price-flyout" edge-detection="true" edge-detection-container-id="position-table-scroll-container" header="Price as of 06/18/2024 11:59:59 PM ET" heading-level="2" height="90" id="position-16-stale-price-flyout" manual-control="true" tooltip-placement="below" variant="information" width="320">
+       <span>
+        "Price" and "Value" are not based on date and time stamp at the top of the page.
+       </span>
+      </mds-flyout>
+      <mds-flyout-overlay class="mds-flyout--cpc" slot="mds-flyout-overlay">
+      </mds-flyout-overlay>
+     </mds-button>
+    </span>
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="quantity-position-16">
+   23.84676
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="cost-position-16">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end">
+    6,679.56
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="gain-loss-position-16">
+   <span class="helpers_negative__yyt81f1" data-testid="value-format">
+    <span class="mds-accessible-text">
+     Loss of -4,037.58
+    </span>
+    <span aria-hidden="true" data-testid="value-format-display-value">
+     -4,037.58
+    </span>
+   </span>
+   <div class="mds-d-block">
+    <span class="helpers_negative__yyt81f1" data-testid="percentage-format">
+     <span class="mds-accessible-text">
+      Loss of -60.45%
+     </span>
+     <span aria-hidden="true" data-testid="percentage-format-display-value">
+      -60.45%
+     </span>
+    </span>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="value-position-16">
+   <div>
+    2,641.98
+   </div>
+   <div>
+   </div>
+  </td>
+  <td align="center" class="zzuv7e0 zzuv7e8 mds-va-middle" data-testid="trade-position-16" rowspan="1">
+   <span>
+    <mds-button accessible-text="" class="mds-button--cpc" data-testid="position-16-trade-menu" disable-live-region="false" icon-position="trailing" icon-type="ico_chevron_down" id="position-16-trade-menu" inactive="false" inverse="false" is-loading="false" small="true" tab-focusable="true" text="Trade" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+    </mds-button>
+   </span>
+  </td>
+ </tr>
+
+ <tr data-testid="position-17">
+  <td class="zzuv7e1 zzuv7e0 zzuv7e8 symbol-cell" rowspan="1">
+   <div class="mds-pr-3 mds-d-flex mds-ai-center">
+    <div aria-hidden="true" class="_1vbasf10">
+     <img alt="" class="_1vbasf11" data-src="https://static.chasecdn.com/logos/sdai/us/US00206R1023/mark_composite_light.png" data-testid="logo-position-17" height="32" loading="lazy" src="https://static.chasecdn.com/logos/sdai/us/US00206R1023/mark_composite_light.png" width="32"/>
+    </div>
+    <div class="_1bm37282">
+     <div class="_1bm37281">
+      <mds-link accessible-text="opens dialog " class="mds-link--cpc" data-testid="symbol-position-17" end-icon="ico_chevron_right" href="javascript:void(0)" id="symbol-position-17" inactive="false" inverse="false" is-button="false" label-aria-text="" leading-pipe="false" tab-focusable="true" text="T" trailing-pipe="false" truncation="none" underline="false">
+      </mds-link>
+      <div class="_1bm37280 mds-d-at-0-none mds-d-at-992-block" id="des-T" title="AT&amp;T INC">
+       AT&amp;T INC
+      </div>
+     </div>
+    </div>
+   </div>
+  </td>
+  <td class="mds-text-left zzuv7e0 zzuv7e8" rowspan="1">
+   <div class="zzuv7e3" title="AT&amp;T INC">
+    AT&amp;T INC
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end" data-testid="price-position-17">
+    <span>
+     18.05
+    </span>
+    <span class="mds-d-print-none">
+     <mds-button accessible-text="Open information dialog: price alert" class="mds-button--cpc" disable-live-region="false" icon-position="icon_only" icon-type="ico_info_outlined" id="position-17-stale-price-indicator" inactive="false" inverse="false" is-loading="false" small="true" style="position: relative;" tab-focusable="true" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+      <mds-flyout accesible-text-flyout-content-end="popup content end" accesible-text-flyout-content-start="popup content start" accessible-close-button="Close information dialog" accessible-text-flyout-content-end="popup content end" accessible-text-flyout-content-start="popup content start" alignment="left" class="mds-flyout--cpc" data-testid="position-17-stale-price-flyout" edge-detection="true" edge-detection-container-id="position-table-scroll-container" header="Price as of 06/18/2024 11:59:59 PM ET" heading-level="2" height="90" id="position-17-stale-price-flyout" manual-control="true" tooltip-placement="below" variant="information" width="320">
+       <span>
+        "Price" and "Value" are not based on date and time stamp at the top of the page.
+       </span>
+      </mds-flyout>
+      <mds-flyout-overlay class="mds-flyout--cpc" slot="mds-flyout-overlay">
+      </mds-flyout-overlay>
+     </mds-button>
+    </span>
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="quantity-position-17">
+   146.12045
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="cost-position-17">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end">
+    3,137.30
+   </div>
+   <div>
+    <span class="_10ldogt0">
+     <mds-link accessible-text="Footnote" class="mds-link--cpc" data-indicator="X" data-testid="position-17-cost-indicator-X" href="javascript:void(0)" id="position-17-cost-indicator-X" inactive="false" inverse="false" is-button="false" label-aria-text="" leading-pipe="false" tab-focusable="true" text="X" trailing-pipe="false" truncation="none" underline="true">
+     </mds-link>
+    </span>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="gain-loss-position-17">
+   <span class="helpers_negative__yyt81f1" data-testid="value-format">
+    <span class="mds-accessible-text">
+     Loss of -499.83
+    </span>
+    <span aria-hidden="true" data-testid="value-format-display-value">
+     -499.83
+    </span>
+   </span>
+   <div class="mds-d-block">
+    <span class="helpers_negative__yyt81f1" data-testid="percentage-format">
+     <span class="mds-accessible-text">
+      Loss of -15.93%
+     </span>
+     <span aria-hidden="true" data-testid="percentage-format-display-value">
+      -15.93%
+     </span>
+    </span>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="value-position-17">
+   <div>
+    2,637.47
+   </div>
+   <div>
+   </div>
+  </td>
+  <td align="center" class="zzuv7e0 zzuv7e8 mds-va-middle" data-testid="trade-position-17" rowspan="1">
+   <span>
+    <mds-button accessible-text="" class="mds-button--cpc" data-testid="position-17-trade-menu" disable-live-region="false" icon-position="trailing" icon-type="ico_chevron_down" id="position-17-trade-menu" inactive="false" inverse="false" is-loading="false" small="true" tab-focusable="true" text="Trade" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+    </mds-button>
+   </span>
+  </td>
+ </tr>
+ <tr data-testid="position-18">
+  <td class="zzuv7e1 zzuv7e0 zzuv7e8 symbol-cell" rowspan="1">
+   <div class="mds-pr-3 mds-d-flex mds-ai-center">
+    <div aria-hidden="true" class="_1vbasf10">
+     <img alt="" class="_1vbasf11" data-src="https://static.chasecdn.com/logos/sdai/us/US0090661010/mark_composite_light.png" data-testid="logo-position-18" height="32" loading="lazy" src="https://static.chasecdn.com/logos/sdai/us/US0090661010/mark_composite_light.png" width="32"/>
+    </div>
+    <div class="_1bm37282">
+     <div class="_1bm37281">
+      <mds-link accessible-text="opens dialog " class="mds-link--cpc" data-testid="symbol-position-18" end-icon="ico_chevron_right" href="javascript:void(0)" id="symbol-position-18" inactive="false" inverse="false" is-button="false" label-aria-text="" leading-pipe="false" tab-focusable="true" text="ABNB" trailing-pipe="false" truncation="none" underline="false">
+      </mds-link>
+      <div class="_1bm37280 mds-d-at-0-none mds-d-at-992-block" id="des-ABNB" title="AIRBNB INC CLASS A COMMON STOCK">
+       AIRBNB INC CLASS A COMMON STOCK
+      </div>
+     </div>
+    </div>
+   </div>
+  </td>
+  <td class="mds-text-left zzuv7e0 zzuv7e8" rowspan="1">
+   <div class="zzuv7e3" title="AIRBNB INC CLASS A COMMON STOCK">
+    AIRBNB INC CLASS A COMMON STOCK
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end" data-testid="price-position-18">
+    <span>
+     147.29
+    </span>
+    <span class="mds-d-print-none">
+     <mds-button accessible-text="Open information dialog: price alert" class="mds-button--cpc" disable-live-region="false" icon-position="icon_only" icon-type="ico_info_outlined" id="position-18-stale-price-indicator" inactive="false" inverse="false" is-loading="false" small="true" style="position: relative;" tab-focusable="true" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+      <mds-flyout accesible-text-flyout-content-end="popup content end" accesible-text-flyout-content-start="popup content start" accessible-close-button="Close information dialog" accessible-text-flyout-content-end="popup content end" accessible-text-flyout-content-start="popup content start" alignment="left" class="mds-flyout--cpc" data-testid="position-18-stale-price-flyout" edge-detection="true" edge-detection-container-id="position-table-scroll-container" header="Price as of 06/18/2024 11:59:59 PM ET" heading-level="2" height="90" id="position-18-stale-price-flyout" manual-control="true" tooltip-placement="below" variant="information" width="320">
+       <span>
+        "Price" and "Value" are not based on date and time stamp at the top of the page.
+       </span>
+      </mds-flyout>
+      <mds-flyout-overlay class="mds-flyout--cpc" slot="mds-flyout-overlay">
+      </mds-flyout-overlay>
+     </mds-button>
+    </span>
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="quantity-position-18">
+   17
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="cost-position-18">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end">
+    1,999.72
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="gain-loss-position-18">
+   <span class="helpers_positive__yyt81f0" data-testid="value-format">
+    <span class="mds-accessible-text">
+     Gain of +504.21
+    </span>
+    <span aria-hidden="true" data-testid="value-format-display-value">
+     +504.21
+    </span>
+   </span>
+   <div class="mds-d-block">
+    <span class="helpers_positive__yyt81f0" data-testid="percentage-format">
+     <span class="mds-accessible-text">
+      Gain of 25.21%
+     </span>
+     <span aria-hidden="true" data-testid="percentage-format-display-value">
+      25.21%
+     </span>
+    </span>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="value-position-18">
+   <div>
+    2,503.93
+   </div>
+   <div>
+   </div>
+  </td>
+  <td align="center" class="zzuv7e0 zzuv7e8 mds-va-middle" data-testid="trade-position-18" rowspan="1">
+   <span>
+    <mds-button accessible-text="" class="mds-button--cpc" data-testid="position-18-trade-menu" disable-live-region="false" icon-position="trailing" icon-type="ico_chevron_down" id="position-18-trade-menu" inactive="false" inverse="false" is-loading="false" small="true" tab-focusable="true" text="Trade" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+    </mds-button>
+   </span>
+  </td>
+ </tr>
+ <tr data-testid="position-19">
+  <td class="zzuv7e1 zzuv7e0 zzuv7e8 symbol-cell" rowspan="1">
+   <div class="mds-pr-3 mds-d-flex mds-ai-center">
+    <div aria-hidden="true" class="_1vbasf10">
+     <img alt="" class="_1vbasf11" data-src="https://static.chasecdn.com/logos/sdai/us/US92343V1044/mark_composite_light.png" data-testid="logo-position-19" height="32" loading="lazy" src="https://static.chasecdn.com/logos/sdai/us/US92343V1044/mark_composite_light.png" width="32"/>
+    </div>
+    <div class="_1bm37282">
+     <div class="_1bm37281">
+      <mds-link accessible-text="opens dialog " class="mds-link--cpc" data-testid="symbol-position-19" end-icon="ico_chevron_right" href="javascript:void(0)" id="symbol-position-19" inactive="false" inverse="false" is-button="false" label-aria-text="" leading-pipe="false" tab-focusable="true" text="VZ" trailing-pipe="false" truncation="none" underline="false">
+      </mds-link>
+      <div class="_1bm37280 mds-d-at-0-none mds-d-at-992-block" id="des-VZ" title="VERIZON COMMUNICATIONS">
+       VERIZON COMMUNICATIONS
+      </div>
+     </div>
+    </div>
+   </div>
+  </td>
+  <td class="mds-text-left zzuv7e0 zzuv7e8" rowspan="1">
+   <div class="zzuv7e3" title="VERIZON COMMUNICATIONS">
+    VERIZON COMMUNICATIONS
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end" data-testid="price-position-19">
+    <span>
+     40.08
+    </span>
+    <span class="mds-d-print-none">
+     <mds-button accessible-text="Open information dialog: price alert" class="mds-button--cpc" disable-live-region="false" icon-position="icon_only" icon-type="ico_info_outlined" id="position-19-stale-price-indicator" inactive="false" inverse="false" is-loading="false" small="true" style="position: relative;" tab-focusable="true" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+      <mds-flyout accesible-text-flyout-content-end="popup content end" accesible-text-flyout-content-start="popup content start" accessible-close-button="Close information dialog" accessible-text-flyout-content-end="popup content end" accessible-text-flyout-content-start="popup content start" alignment="left" class="mds-flyout--cpc" data-testid="position-19-stale-price-flyout" edge-detection="true" edge-detection-container-id="position-table-scroll-container" header="Price as of 06/18/2024 11:59:59 PM ET" heading-level="2" height="90" id="position-19-stale-price-flyout" manual-control="true" tooltip-placement="below" variant="information" width="320">
+       <span>
+        "Price" and "Value" are not based on date and time stamp at the top of the page.
+       </span>
+      </mds-flyout>
+      <mds-flyout-overlay class="mds-flyout--cpc" slot="mds-flyout-overlay">
+      </mds-flyout-overlay>
+     </mds-button>
+    </span>
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="quantity-position-19">
+   61.45582
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="cost-position-19">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end">
+    3,419.76
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="gain-loss-position-19">
+   <span class="helpers_negative__yyt81f1" data-testid="value-format">
+    <span class="mds-accessible-text">
+     Loss of -956.61
+    </span>
+    <span aria-hidden="true" data-testid="value-format-display-value">
+     -956.61
+    </span>
+   </span>
+   <div class="mds-d-block">
+    <span class="helpers_negative__yyt81f1" data-testid="percentage-format">
+     <span class="mds-accessible-text">
+      Loss of -27.97%
+     </span>
+     <span aria-hidden="true" data-testid="percentage-format-display-value">
+      -27.97%
+     </span>
+    </span>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="value-position-19">
+   <div>
+    2,463.15
+   </div>
+   <div>
+   </div>
+  </td>
+  <td align="center" class="zzuv7e0 zzuv7e8 mds-va-middle" data-testid="trade-position-19" rowspan="1">
+   <span>
+    <mds-button accessible-text="" class="mds-button--cpc" data-testid="position-19-trade-menu" disable-live-region="false" icon-position="trailing" icon-type="ico_chevron_down" id="position-19-trade-menu" inactive="false" inverse="false" is-loading="false" small="true" tab-focusable="true" text="Trade" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+    </mds-button>
+   </span>
+  </td>
+ </tr>
+ <tr data-testid="position-20">
+  <td class="zzuv7e1 zzuv7e0 zzuv7e8 symbol-cell" rowspan="1">
+   <div class="mds-pr-3 mds-d-flex mds-ai-center">
+    <div aria-hidden="true" class="_1vbasf10">
+     <img alt="" class="_1vbasf11" data-src="https://static.chasecdn.com/logos/sdai/us/US2546871060/mark_composite_light.png" data-testid="logo-position-20" height="32" loading="lazy" src="https://static.chasecdn.com/logos/sdai/us/US2546871060/mark_composite_light.png" width="32"/>
+    </div>
+    <div class="_1bm37282">
+     <div class="_1bm37281">
+      <mds-link accessible-text="opens dialog " class="mds-link--cpc" data-testid="symbol-position-20" end-icon="ico_chevron_right" href="javascript:void(0)" id="symbol-position-20" inactive="false" inverse="false" is-button="false" label-aria-text="" leading-pipe="false" tab-focusable="true" text="DIS" trailing-pipe="false" truncation="none" underline="false">
+      </mds-link>
+      <div class="_1bm37280 mds-d-at-0-none mds-d-at-992-block" id="des-DIS" title="WALT DISNEY CO">
+       WALT DISNEY CO
+      </div>
+     </div>
+    </div>
+   </div>
+  </td>
+  <td class="mds-text-left zzuv7e0 zzuv7e8" rowspan="1">
+   <div class="zzuv7e3" title="WALT DISNEY CO">
+    WALT DISNEY CO
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end" data-testid="price-position-20">
+    <span>
+     101.50
+    </span>
+    <span class="mds-d-print-none">
+     <mds-button accessible-text="Open information dialog: price alert" class="mds-button--cpc" disable-live-region="false" icon-position="icon_only" icon-type="ico_info_outlined" id="position-20-stale-price-indicator" inactive="false" inverse="false" is-loading="false" small="true" style="position: relative;" tab-focusable="true" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+      <mds-flyout accesible-text-flyout-content-end="popup content end" accesible-text-flyout-content-start="popup content start" accessible-close-button="Close information dialog" accessible-text-flyout-content-end="popup content end" accessible-text-flyout-content-start="popup content start" alignment="left" class="mds-flyout--cpc" data-testid="position-20-stale-price-flyout" edge-detection="true" edge-detection-container-id="position-table-scroll-container" header="Price as of 06/18/2024 11:59:59 PM ET" heading-level="2" height="90" id="position-20-stale-price-flyout" manual-control="true" tooltip-placement="below" variant="information" width="320">
+       <span>
+        "Price" and "Value" are not based on date and time stamp at the top of the page.
+       </span>
+      </mds-flyout>
+      <mds-flyout-overlay class="mds-flyout--cpc" slot="mds-flyout-overlay">
+      </mds-flyout-overlay>
+     </mds-button>
+    </span>
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="quantity-position-20">
+   23
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="cost-position-20">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end">
+    3,264.05
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="gain-loss-position-20">
+   <span class="helpers_negative__yyt81f1" data-testid="value-format">
+    <span class="mds-accessible-text">
+     Loss of -929.55
+    </span>
+    <span aria-hidden="true" data-testid="value-format-display-value">
+     -929.55
+    </span>
+   </span>
+   <div class="mds-d-block">
+    <span class="helpers_negative__yyt81f1" data-testid="percentage-format">
+     <span class="mds-accessible-text">
+      Loss of -28.48%
+     </span>
+     <span aria-hidden="true" data-testid="percentage-format-display-value">
+      -28.48%
+     </span>
+    </span>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="value-position-20">
+   <div>
+    2,334.50
+   </div>
+   <div>
+   </div>
+  </td>
+  <td align="center" class="zzuv7e0 zzuv7e8 mds-va-middle" data-testid="trade-position-20" rowspan="1">
+   <span>
+    <mds-button accessible-text="" class="mds-button--cpc" data-testid="position-20-trade-menu" disable-live-region="false" icon-position="trailing" icon-type="ico_chevron_down" id="position-20-trade-menu" inactive="false" inverse="false" is-loading="false" small="true" tab-focusable="true" text="Trade" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+    </mds-button>
+   </span>
+  </td>
+ </tr>
+
+ <tr data-testid="position-21">
+  <td class="zzuv7e1 zzuv7e0 zzuv7e8 symbol-cell" rowspan="1">
+   <div class="mds-pr-3 mds-d-flex mds-ai-center">
+    <div aria-hidden="true" class="_1vbasf10">
+     <img alt="" class="_1vbasf11" data-src="https://static.chasecdn.com/logos/sdai/us/US0378331005/mark_composite_light.png" data-testid="logo-position-21" height="32" loading="lazy" src="https://static.chasecdn.com/logos/sdai/us/US0378331005/mark_composite_light.png" width="32"/>
+    </div>
+    <div class="_1bm37282">
+     <div class="_1bm37281">
+      <mds-link accessible-text="opens dialog " class="mds-link--cpc" data-testid="symbol-position-21" end-icon="ico_chevron_right" href="javascript:void(0)" id="symbol-position-21" inactive="false" inverse="false" is-button="false" label-aria-text="" leading-pipe="false" tab-focusable="true" text="AAPL" trailing-pipe="false" truncation="none" underline="false">
+      </mds-link>
+      <div class="_1bm37280 mds-d-at-0-none mds-d-at-992-block" id="des-AAPL" title="APPLE INC">
+       APPLE INC
+      </div>
+     </div>
+    </div>
+   </div>
+  </td>
+  <td class="mds-text-left zzuv7e0 zzuv7e8" rowspan="1">
+   <div class="zzuv7e3" title="APPLE INC">
+    APPLE INC
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end" data-testid="price-position-21">
+    <span>
+     214.29
+    </span>
+    <span class="mds-d-print-none">
+     <mds-button accessible-text="Open information dialog: price alert" class="mds-button--cpc" disable-live-region="false" icon-position="icon_only" icon-type="ico_info_outlined" id="position-21-stale-price-indicator" inactive="false" inverse="false" is-loading="false" small="true" style="position: relative;" tab-focusable="true" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+      <mds-flyout accesible-text-flyout-content-end="popup content end" accesible-text-flyout-content-start="popup content start" accessible-close-button="Close information dialog" accessible-text-flyout-content-end="popup content end" accessible-text-flyout-content-start="popup content start" alignment="left" class="mds-flyout--cpc" data-testid="position-21-stale-price-flyout" edge-detection="true" edge-detection-container-id="position-table-scroll-container" header="Price as of 06/18/2024 11:59:59 PM ET" heading-level="2" height="90" id="position-21-stale-price-flyout" manual-control="true" tooltip-placement="below" variant="information" width="320">
+       <span>
+        "Price" and "Value" are not based on date and time stamp at the top of the page.
+       </span>
+      </mds-flyout>
+      <mds-flyout-overlay class="mds-flyout--cpc" slot="mds-flyout-overlay">
+      </mds-flyout-overlay>
+     </mds-button>
+    </span>
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="quantity-position-21">
+   10.08138
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="cost-position-21">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end">
+    1,312.15
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="gain-loss-position-21">
+   <span class="helpers_positive__yyt81f0" data-testid="value-format">
+    <span class="mds-accessible-text">
+     Gain of +848.19
+    </span>
+    <span aria-hidden="true" data-testid="value-format-display-value">
+     +848.19
+    </span>
+   </span>
+   <div class="mds-d-block">
+    <span class="helpers_positive__yyt81f0" data-testid="percentage-format">
+     <span class="mds-accessible-text">
+      Gain of 64.64%
+     </span>
+     <span aria-hidden="true" data-testid="percentage-format-display-value">
+      64.64%
+     </span>
+    </span>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="value-position-21">
+   <div>
+    2,160.34
+   </div>
+   <div>
+   </div>
+  </td>
+  <td align="center" class="zzuv7e0 zzuv7e8 mds-va-middle" data-testid="trade-position-21" rowspan="1">
+   <span>
+    <mds-button accessible-text="" class="mds-button--cpc" data-testid="position-21-trade-menu" disable-live-region="false" icon-position="trailing" icon-type="ico_chevron_down" id="position-21-trade-menu" inactive="false" inverse="false" is-loading="false" small="true" tab-focusable="true" text="Trade" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+    </mds-button>
+   </span>
+  </td>
+ </tr>
+ <tr data-testid="position-22">
+  <td class="zzuv7e1 zzuv7e0 zzuv7e8 symbol-cell" rowspan="1">
+   <div class="mds-pr-3 mds-d-flex mds-ai-center">
+    <div aria-hidden="true" class="_1vbasf10">
+     <img alt="" class="_1vbasf11" data-src="https://static.chasecdn.com/logos/sdai/us/US87612E1064/mark_composite_light.png" data-testid="logo-position-22" height="32" loading="lazy" src="https://static.chasecdn.com/logos/sdai/us/US87612E1064/mark_composite_light.png" width="32"/>
+    </div>
+    <div class="_1bm37282">
+     <div class="_1bm37281">
+      <mds-link accessible-text="opens dialog " class="mds-link--cpc" data-testid="symbol-position-22" end-icon="ico_chevron_right" href="javascript:void(0)" id="symbol-position-22" inactive="false" inverse="false" is-button="false" label-aria-text="" leading-pipe="false" tab-focusable="true" text="TGT" trailing-pipe="false" truncation="none" underline="false">
+      </mds-link>
+      <div class="_1bm37280 mds-d-at-0-none mds-d-at-992-block" id="des-TGT" title="TARGET CORP">
+       TARGET CORP
+      </div>
+     </div>
+    </div>
+   </div>
+  </td>
+  <td class="mds-text-left zzuv7e0 zzuv7e8" rowspan="1">
+   <div class="zzuv7e3" title="TARGET CORP">
+    TARGET CORP
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end" data-testid="price-position-22">
+    <span>
+     142.54
+    </span>
+    <span class="mds-d-print-none">
+     <mds-button accessible-text="Open information dialog: price alert" class="mds-button--cpc" disable-live-region="false" icon-position="icon_only" icon-type="ico_info_outlined" id="position-22-stale-price-indicator" inactive="false" inverse="false" is-loading="false" small="true" style="position: relative;" tab-focusable="true" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+      <mds-flyout accesible-text-flyout-content-end="popup content end" accesible-text-flyout-content-start="popup content start" accessible-close-button="Close information dialog" accessible-text-flyout-content-end="popup content end" accessible-text-flyout-content-start="popup content start" alignment="left" class="mds-flyout--cpc" data-testid="position-22-stale-price-flyout" edge-detection="true" edge-detection-container-id="position-table-scroll-container" header="Price as of 06/18/2024 11:59:59 PM ET" heading-level="2" height="90" id="position-22-stale-price-flyout" manual-control="true" tooltip-placement="below" variant="information" width="320">
+       <span>
+        "Price" and "Value" are not based on date and time stamp at the top of the page.
+       </span>
+      </mds-flyout>
+      <mds-flyout-overlay class="mds-flyout--cpc" slot="mds-flyout-overlay">
+      </mds-flyout-overlay>
+     </mds-button>
+    </span>
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="quantity-position-22">
+   10.07427
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="cost-position-22">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end">
+    2,587.68
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="gain-loss-position-22">
+   <span class="helpers_negative__yyt81f1" data-testid="value-format">
+    <span class="mds-accessible-text">
+     Loss of -1,151.69
+    </span>
+    <span aria-hidden="true" data-testid="value-format-display-value">
+     -1,151.69
+    </span>
+   </span>
+   <div class="mds-d-block">
+    <span class="helpers_negative__yyt81f1" data-testid="percentage-format">
+     <span class="mds-accessible-text">
+      Loss of -44.51%
+     </span>
+     <span aria-hidden="true" data-testid="percentage-format-display-value">
+      -44.51%
+     </span>
+    </span>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="value-position-22">
+   <div>
+    1,435.99
+   </div>
+   <div>
+   </div>
+  </td>
+  <td align="center" class="zzuv7e0 zzuv7e8 mds-va-middle" data-testid="trade-position-22" rowspan="1">
+   <span>
+    <mds-button accessible-text="" class="mds-button--cpc" data-testid="position-22-trade-menu" disable-live-region="false" icon-position="trailing" icon-type="ico_chevron_down" id="position-22-trade-menu" inactive="false" inverse="false" is-loading="false" small="true" tab-focusable="true" text="Trade" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+    </mds-button>
+   </span>
+  </td>
+ </tr>
+ <tr data-testid="position-23">
+  <td class="zzuv7e1 zzuv7e0 zzuv7e8 symbol-cell" rowspan="1">
+   <div class="mds-pr-3 mds-d-flex mds-ai-center">
+    <div aria-hidden="true" class="_1vbasf10">
+     <img alt="" class="_1vbasf11" data-src="https://static.chasecdn.com/logos/sdai/us/US76954A1034/mark_composite_light.png" data-testid="logo-position-23" height="32" loading="lazy" src="https://static.chasecdn.com/logos/sdai/us/US76954A1034/mark_composite_light.png" width="32"/>
+    </div>
+    <div class="_1bm37282">
+     <div class="_1bm37281">
+      <mds-link accessible-text="opens dialog " class="mds-link--cpc" data-testid="symbol-position-23" end-icon="ico_chevron_right" href="javascript:void(0)" id="symbol-position-23" inactive="false" inverse="false" is-button="false" label-aria-text="" leading-pipe="false" tab-focusable="true" text="RIVN" trailing-pipe="false" truncation="none" underline="false">
+      </mds-link>
+      <div class="_1bm37280 mds-d-at-0-none mds-d-at-992-block" id="des-RIVN" title="RIVIAN AUTOMOTIVE INC CLASS A COMMON STOCK">
+       RIVIAN AUTOMOTIVE INC CLASS A COMMON STOCK
+      </div>
+     </div>
+    </div>
+   </div>
+  </td>
+  <td class="mds-text-left zzuv7e0 zzuv7e8" rowspan="1">
+   <div class="zzuv7e3" title="RIVIAN AUTOMOTIVE INC CLASS A COMMON STOCK">
+    RIVIAN AUTOMOTIVE INC CLASS A COMMON STOCK
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end" data-testid="price-position-23">
+    <span>
+     11.02
+    </span>
+    <span class="mds-d-print-none">
+     <mds-button accessible-text="Open information dialog: price alert" class="mds-button--cpc" disable-live-region="false" icon-position="icon_only" icon-type="ico_info_outlined" id="position-23-stale-price-indicator" inactive="false" inverse="false" is-loading="false" small="true" style="position: relative;" tab-focusable="true" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+      <mds-flyout accesible-text-flyout-content-end="popup content end" accesible-text-flyout-content-start="popup content start" accessible-close-button="Close information dialog" accessible-text-flyout-content-end="popup content end" accessible-text-flyout-content-start="popup content start" alignment="left" class="mds-flyout--cpc" data-testid="position-23-stale-price-flyout" edge-detection="true" edge-detection-container-id="position-table-scroll-container" header="Price as of 06/18/2024 11:59:59 PM ET" heading-level="2" height="90" id="position-23-stale-price-flyout" manual-control="true" tooltip-placement="below" variant="information" width="320">
+       <span>
+        "Price" and "Value" are not based on date and time stamp at the top of the page.
+       </span>
+      </mds-flyout>
+      <mds-flyout-overlay class="mds-flyout--cpc" slot="mds-flyout-overlay">
+      </mds-flyout-overlay>
+     </mds-button>
+    </span>
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="quantity-position-23">
+   90
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="cost-position-23">
+   <div class="mds-d-flex mds-ai-center mds-jc-flex-end">
+    5,001.60
+   </div>
+   <div>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="gain-loss-position-23">
+   <span class="helpers_negative__yyt81f1" data-testid="value-format">
+    <span class="mds-accessible-text">
+     Loss of -4,009.80
+    </span>
+    <span aria-hidden="true" data-testid="value-format-display-value">
+     -4,009.80
+    </span>
+   </span>
+   <div class="mds-d-block">
+    <span class="helpers_negative__yyt81f1" data-testid="percentage-format">
+     <span class="mds-accessible-text">
+      Loss of -80.17%
+     </span>
+     <span aria-hidden="true" data-testid="percentage-format-display-value">
+      -80.17%
+     </span>
+    </span>
+   </div>
+  </td>
+  <td class="zzuv7e0 zzuv7e8" data-testid="value-position-23">
+   <div>
+    991.80
+   </div>
+   <div>
+   </div>
+  </td>
+  <td align="center" class="zzuv7e0 zzuv7e8 mds-va-middle" data-testid="trade-position-23" rowspan="1">
+   <span>
+    <mds-button accessible-text="" class="mds-button--cpc" data-testid="position-23-trade-menu" disable-live-region="false" icon-position="trailing" icon-type="ico_chevron_down" id="position-23-trade-menu" inactive="false" inverse="false" is-loading="false" small="true" tab-focusable="true" text="Trade" tooltip-alignment="center" tooltip-placement="below" tooltip-pointer-placement="8" type="button" variant="tertiary" width-type="content">
+    </mds-button>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <td class="_1ys0y9x1 _1ys0y9x0 symbol-cell">
+   <div class="mds-pr-3">
+    <mds-link accessible-text="opens dialog" class="mds-link--cpc" data-testid="cash-sweep-drawer-link" end-icon="ico_chevron_right" href="javascript:void(0)" id="cash-sweep-drawer-link" inactive="false" inverse="false" is-button="false" label-aria-text="" leading-pipe="false" tab-focusable="true" text="Cash &amp;amp; Sweep Funds" trailing-pipe="false" truncation="none" underline="false">
+    </mds-link>
+   </div>
+  </td>
+  <td class="_1ys0y9x0">
+  </td>
+  <td class="_1ys0y9x0">
+  </td>
+  <td class="_1ys0y9x0">
+  </td>
+  <td class="_1ys0y9x0">
+   444,969.75
+  </td>
+  <td class="_1ys0y9x0">
+  </td>
+  <td class="_1ys0y9x0">
+   444,969.75
+  </td>
+  <td class="_1ys0y9x0">
+  </td>
+ </tr>
+</tbody>

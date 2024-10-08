@@ -7,10 +7,10 @@ import os
 LOGGER = logging.getLogger(__name__)
 
 def main():
-    set_logger('info')
+    set_logger('debug')
     wb_path = '/Users/yu-shenglee/Library/CloudStorage/OneDrive-Personal/Desktop/Excel on Desktop/dev/Python Projects/Stock Portfolio-M.xlsx'
     
-    names = ['Clyde', 'Austin', 'Irina']
+    names = ['Clyde'] # , 'Austin', 'Irina'
     
     for name in names:
         with open('html_' + name + '.txt', 'r') as file:
@@ -50,25 +50,26 @@ def output(df, path, who):
 def extract(html):
     '''take the HTML text as input and return the pandas dataframe as output'''
     html_long_data = BeautifulSoup(html, 'html.parser') 
+    LOGGER.debug(html_long_data.prettify())
     tables = html_long_data.find_all('tbody')
     rows = tables[0].find_all('tr')
     df = pd.DataFrame(columns=['ticker','quantity','cost'])
     for row in rows:
         cols = row.find_all('td') 
-        if len(cols)!=0 and cols[2] is not None and cols[3] is not None:
-            ticker = cols[0].find('mds-link').get('text')
-            quantity = cols[2].string
-            cost = cols[3].contents[0].string
-            data_dict = {'ticker': ticker,
-                        'quantity': quantity, 
-                        'cost': cost}
-            df1 = pd.DataFrame(data_dict, index=[0])
-            df = pd.concat([df, df1], ignore_index=True)
+        # if len(cols)!=0 and cols[2] is not None and cols[3] is not None:
+        #     ticker = cols[0].find('mds-link').get('text')
+        #     quantity = cols[2].string
+        #     cost = cols[3].contents[0].string
+        #     data_dict = {'ticker': ticker,
+        #                 'quantity': quantity, 
+        #                 'cost': cost}
+        #     df1 = pd.DataFrame(data_dict, index=[0])
+        #     df = pd.concat([df, df1], ignore_index=True)
     # df['cost'] = df['cost'].replace(',', '')    
     # df['quantity'] = df['quantity'].astype('float')
-    df.loc[df['ticker']=='Cash &amp; Sweep Funds','quantity'] = 1
-    df.loc[df['ticker']=='Cash &amp; Sweep Funds','ticker'] = 'Cash'
-    return df
+    # df.loc[df['ticker']=='Cash &amp; Sweep Funds','quantity'] = 1
+    # df.loc[df['ticker']=='Cash &amp; Sweep Funds','ticker'] = 'Cash'
+    # return df
 
 def set_logger(default_level = 'info'):
     LOGGER = logging.getLogger()

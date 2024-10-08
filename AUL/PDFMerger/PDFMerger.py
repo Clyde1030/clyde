@@ -9,7 +9,7 @@ LOGGER = logging.getLogger()
 def main():
     configure_logger(LOGGER, 'debug')
     mergelist = get_merge_list()
-    combined_pdf = "VSC-RV-Marine-Powersports-GAP-Credit Monthly Reporting 202405.pdf"  # Output combined PDF file
+    combined_pdf = "Clyde-AA Reciept.pdf"  # Output combined PDF file
     combine_pdfs(mergelist, combined_pdf)
     LOGGER.info("PDFs combined and inserted into PowerPoint presentation successfully.")
 
